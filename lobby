@@ -1,0 +1,10 @@
+num1 = 16 #int
+num2 = 4 #float
+
+diff = num1 - num2
+
+print(diff)
+
+print(str(num1) + "minus" + str(num2) + "Vienāds ar") + str(num)
+
+print(num1, "minus", num2, "Vienāds ar", sum)
