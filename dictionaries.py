@@ -20,3 +20,8 @@ print(trešais["Macību priekšmeti"]["Latviešu valoda"][2])
 pirmais = {}
 pirmais['koks'] = 'bērzs'
 pirmais['ūdenstilpe'] = 'upe'
+
+print(pirmais.keys())
+print(pirmais.values())
+
+print(pirmais.items())
