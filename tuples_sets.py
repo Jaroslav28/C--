@@ -1,7 +1,7 @@
 #Tuples
 
 #()
- my_tuple = ('sportot','ēst','stradāt')
+ my_tuple = ("sportot","ēst","stradāt")
 
  print(len(my_tuple))
 

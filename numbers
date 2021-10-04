@@ -11,8 +11,8 @@ print(num1, "plus", num2, "vienāds ar", sum)
 
 #ievade
 
-num1 = int(input("Ievadi skaitli: "))
-num2 = int(input("Ievadi otro skaitli: "))
+num1 = int(input("Ievadi skaitli: ")
+num2 = int(input("Ievadi otro skaitli: ")
 
 sum = num1+num2
 
