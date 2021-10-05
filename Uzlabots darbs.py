@@ -2,22 +2,19 @@
 Yaroslav Plashechnik
 04.10.2021.
 '''
-( g = b 
-(If g == b:  
-print = function
+g = "b" 
+if g == "b":  
+    print ("function")
 
-If2: g == b case2
-    (print
-(else:
+elif  g == "c" :#case2
     print
-(Yaroslav:)= input'Text'
-print = Yaroslav
+else:
+    Text = input("Text: ")
+    print( Text )
 
+Text = input("Text: ")
+if Text== '12':
+    print(12) 
 
-(Text:)= input'12'
-print = 12
-12==1
-a==c case2:
-print 
-15:
-(print)
+if Text =='Yaroslav':
+    print ("Hello")
